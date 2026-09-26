@@ -12,8 +12,12 @@ dependencies = [
     "ipywidgets>=8.1.9",
     "matplotlib>=3.11.1",
     "numpy>=2.5.2",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
     "scipy>=1.18.1",
+    "sympy>=1.14.0",
     "tensorflow>=2.21.0",
+    "xgboost-cpu>=3.4.1",
 ]
 
 [project.scripts]
